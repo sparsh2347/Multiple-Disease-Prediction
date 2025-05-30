@@ -178,6 +178,8 @@ This Streamlit-based web application enables users to predict the presence of **
 
 - ⚙️ **Modular Design**  
   Code is structured by disease modules (Diabetes, Heart, Parkinson), making it scalable and easy to add more models in the future.
+  
+   ![image](https://github.com/user-attachments/assets/4069857b-4d5a-4cca-9d32-34adaec3d93d)
 
 ---
 
